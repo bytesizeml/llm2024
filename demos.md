@@ -16,5 +16,5 @@
 
 
 ***
-### [Embeddings based Search demo](https://searchdemo.streamlit.app)
+### [Embeddings based Search demo]()
 
