@@ -1,5 +1,5 @@
 
-# Hands-on Master Class on LLMs and ChatGPT | Autumn 2023
+# LLMs: From Transformers to GPT| Winter 2024
 
 ***
  
@@ -18,29 +18,44 @@
 
 ***
 
-### Flavor of the Short Course
-The course will be fast paced and dynamic as its of a short duration. The course will be a mix of conceptual discussion, demos and in-class coding. Assignments are focused to maximize your learning - So have fun with it!
+### Pre-requisites
+The course assumes that you have the basics of machine learning and are comfortable coding in Python. If this is not the case, please reach out to the TAs or the instructor asap.
+Set up is also key for success in the course. Assignment 1 partly takes care of the setup (coding environment, APIs, etc).
+
+### Flavor of the Course
+The course will be a modern introduction to deep learning, transformers, GPT and beyond. We will have a mix of concepts, examples, applications in the industry, theory, algorithms, code and demos. Expect a lot of hands-on
+coding assignments and mini-projects. Towards the later half of the course, we will start to touch on the latest trends in Generative AI. 
 
 ### Lecture Dates
-1. Saturday, Sunday 9 am - 12 pm PST
-Nov 11,12 and Nov 18, 19
+1.  Tuesday, 4-6 pm **In-person**
+2. Thursday, 4-6 pm **Online**
 
 ### Course Syllabus
 
 ***
  
-1. Introduction and Motivation
-1. LLMs and their usecases
+1. Introduction and Motivation for LLMs
+1. Deep Learning and its evolution
+1. Transformer Architecture
+1. Embeddings
+1. Similarity Search with Transformers and Embeddings 
+1. Discriminative vs Generative Transformers
+1. Purely Generative Tranformers: GPT, GPT-2, GPT-3
+1. Fine-tuning and RLHF: GPT-3.5 and GPT-4
 1. LLMs vs APIs
 1. Prompt Engineering
 1. Use of APIs 
-1. Embeddings for search
+1. Closed vs Open-source LLMs
+1. Open-source LLMs: LLama, MixTral, Phi-1.5 and Phi-2
 1. Fine-tuning LLMs
-1. Data Augmentation to improve performance
-1. Question-Answering
-1. Sentiment Analysis
+1. Tricks to fine-tune LLMs
+1. Distillation and its use-cases
+1. LLMs for Data Augmentation
+1. **How can you trust an LLM?** Evaluating LLMs
+1. Applications of NLP and LLMs to: Question-Answering, Sentiment Analysis and more
 1. Scaling LLMs 
-1. Langchain and LLM agents
+1. **LLMs -> LVMs:** Moving from Language to Images and Videos
+1. **How the heck can you generate an image from just text?** Stable Diffusion 
 
 ### Course Assesments (300 points)
 
