@@ -50,11 +50,14 @@ coding assignments and mini-projects. Towards the later half of the course, we w
 1. **Can you make my fine-tuning easy for me?** Tricks to fine-tune LLMs
 1. **I can only handle smaller models!!** Distillation and its use-cases
 1. **What do I do if I don't have enough data :-/** LLMs for Data Augmentation
+1. **When LLM becomes your annotator** Using LLMs to label data and train smaller models
 1. **How can you trust an LLM?** Evaluating LLMs
 1. **Show me the cool stuff!**: Question-Answering, Sentiment Analysis and more
+1. **Showcasing LLMs over web demos**: Use of StreamLit to build web-apps with innovative uses of LLMs and smaller models
 1. **Is my data safe?** Privacy and building in-house LLMs with privacy constraints
 1. **LLMs -> LVMs:** Moving from Language to Images and Videos
 1. **How the heck can you generate an image from just text?** Stable Diffusion 
+1. **Can you remove the photo-bomber from the pic?** In-painting using image segmentation and stable diffusion
 
 
 
