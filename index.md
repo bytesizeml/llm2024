@@ -35,10 +35,10 @@ coding assignments and mini-projects. Towards the later half of the course, we w
 ***
  
 1. Introduction and Motivation for LLMs
-1. Deep Learning and its evolution
-1. Transformer Architecture
-1. Embeddings
-1. Similarity Search with Transformers and Embeddings 
+1. **When even DL became a thing of the past!** Deep Learning and its evolution
+1. **What started the AI transformation?** Transformer Architecture
+1. **How do you concisely express data?** Embeddings
+1. **How does one make search smarter?** Similarity Search with Transformers and Embeddings 
 1. Discriminative vs Generative Transformers
 1. **It's just the stream of consciousness!** Purely Generative Tranformers: GPT, GPT-2, GPT-3
 1. **What made ChatGPT so popular?** Fine-tuning and RLHF: GPT-3.5 and GPT-4
