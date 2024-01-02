@@ -27,7 +27,7 @@ coding assignments and mini-projects. Towards the later half of the course, we w
 
 ### Lecture Dates
 1.  Tuesday, 4-6 pm **In-person**
-2. Thursday, 4-6 pm **Online**
+2. Thursday, 4-6 pm **In-person**
 
 ### Course Syllabus (we may leave out some topics depending on the available time)
 
