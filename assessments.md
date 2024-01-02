@@ -15,6 +15,12 @@
 | [Home](index.md)  | [Lectures](lectures.md)    | [Assessments](assessments.md) | [References](references.md) | [Demos](demos.md) | [About me](karthik.md) |
 
 
+### Course Assesments (300 points)
+
 ***
-### [Embeddings based Search demo](https://searchdemo.streamlit.app)
+
+
+|  | Assignment Type | Points | Due Date | Pdf | Starter Code (if any)
+| --- | --- | --- | --- | --- | --- |
+| 1 | Assignment 1 |  70 |  | [Assignment 0]()  | [Starter Code]()  | 
 

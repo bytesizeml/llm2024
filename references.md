@@ -1,4 +1,4 @@
-# Hands-on Master Class on LLMs and ChatGPT | Autumn 2023
+# LLMs: From Transformers to GPT| Winter 2024
 
 ***
  
@@ -11,7 +11,8 @@
 
 ***
 
-| [Home](index.md)  | [Lectures](lectures.md)    | [References](references.md) | [Demos](demos.md) | [About me](karthik.md) |
+
+| [Home](index.md)  | [Lectures](lectures.md)    | [Assessments](assessments.md) | [References](references.md) | [Demos](demos.md) | [About me](karthik.md) |
 
 
 ***
