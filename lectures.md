@@ -33,4 +33,5 @@
 | Jan 25 | Transformers Attention and Two Towers|  [Lecture 7](lectures/lecture_7.pdf)  | [Lecture 7 annotated](lectures/lecture_7_annotated.pdf) | [Video](https://washington.zoom.us/rec/share/SLF9aBjunYJuYmfPEn5vGzEFcWi_6GvUI7goHSHMInWhqe67c-bjZPWiAFlsnQHT.dzL_9_8sphuTW-sT)   | |
 | Jan 30 | Instacart Recommendations and Recommendations Design|  [Lecture 8](lectures/lecture_8.pdf) [Recommender System Design](lectures/lecture_8_recommender_systems_design.pdf)  | [Lecture 8 annotated](lectures/lecture_8_annotated.pdf) | [Video](https://washington.zoom.us/rec/share/51MVeA6YzHapt98ws1FtISqddMHChDc1IPSPadRanltVPSWBwWCitXPlP7JBHKfu.W0G4Mzbvvhd23DEv)   | | 
 | Feb 1 | Prompt Engineering Principles and Data Augmentation|  [Lecture 9](lectures/prompt_engineering_llm2024.pdf)  |  | [Video](https://washington.zoom.us/rec/share/ITNHkmcZfvG1N0hpOlq6pbDv1Hycz4KiYnsKu19xSoZpdFZgwdzgWwycC36ZnYO7.RJr0BG4dx9O3EGxE)   |[Notebook](lectures/LLM_prompting.ipynb)| 
+| Feb 6 | Advanced Prompt Engineering and RAGs|  [Lecture 10](lectures/lecture_10.ipynb)  |  | [Video]()   |[Notebook](lectures/lecture_10.ipynb)| 
 
