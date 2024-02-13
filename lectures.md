@@ -35,4 +35,5 @@
 | Feb 1 | Prompt Engineering Principles and Data Augmentation|  [Lecture 9](lectures/prompt_engineering_llm2024.pdf)  |  | [Video](https://washington.zoom.us/rec/share/ITNHkmcZfvG1N0hpOlq6pbDv1Hycz4KiYnsKu19xSoZpdFZgwdzgWwycC36ZnYO7.RJr0BG4dx9O3EGxE)   |[Notebook and ICE-2](lectures/LLM_prompting.ipynb)| 
 | Feb 6 | Advanced Prompt Engineering and RAGs|  [Lecture 10](lectures/lecture_10.html)  |  | [Video](https://washington.zoom.us/rec/share/IoJ59uKeSOdPxL84ixINvlfED3muUsXfrU_33BrJhO3IDZeknm-Ch9nK8wixTD9e.-Th0Sh0hMtQLpAgM)   |[Notebook and ICE-3](lectures/lecture_10.ipynb)| 
 | Feb 8 | Automated Prompt Engineering and Agents|  [Lecture 11](lectures/lecture_11.html)  |  | [Video](https://washington.zoom.us/rec/share/Qb2MouMb6OoeIBF1pY62KhjTCKI99y2KOJMPiknSJ6hKHnwPWFJxNJmZVaQ4LbyP.5jZqV008WSp4UL7w)   |[Notebook and ICE-3 (continuation)](lectures/lecture_11.ipynb)| 
+| Feb 13 | ToolFormer and Stable Diffusion|  [Lecture 12](lectures/lecture_12.pdf) [Lecture 12 Stable Diffusion](lectures/lecture_12_images.pdf) |  | [Video]()   |[Notebook Walkthrough](lectures/Feb_13_2024_walkthrough.ipynb) [ICE-4](lectures/Feb_13_ICE.ipynb)| 
 
