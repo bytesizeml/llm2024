@@ -39,4 +39,5 @@
 | Feb 20 | Stable Diffusion Architecture|  [Lecture 13](lectures/lecture_13_part_1.pdf)  | [Lecture 13 annotated](lectures/lecture_13_part_1_annotated.pdf)  | [Video](https://washington.zoom.us/rec/share/-JS4YnqHkFfHaX5KiMEgddXhzLK57Tkj-BUrebedODaDNydPr5deLFTaxW4_9x4l.8yTjwKAtp5wvMD2P)   | | |
 | Feb 22 | Stable Diffusion Architecture|  [Lecture 14](lectures/lecture_14.pdf)  | [Lecture 14 annotated](lectures/lecture_14_annotated.pdf)  | [Video](https://washington.zoom.us/rec/share/vANTJlgeJ5lWqrY98SspGz9auWoKE0Pj93oIp12VKAiMR0Gk9HipPZaJOzRXei_U.0LgJmGw7ye6IGfzm)   | | |
 | Feb 27 | Stable Diffusion Architecture and Demos|  [Lecture 15](lectures/lecture_15.pdf)  | [Lecture 15 annotated](lectures/lecture_15_annotated.pdf)  | [Video]()    |[Notebook and ICE-5](lectures/Text2Image_LLM_2024.ipynb) |
+| Feb 29 | Adverserial Attacks on LLMs|  [Lecture 16](lectures/lecture_16.pdf)  | [Lecture 15 annotated](lectures/lecture_16_annotated.pdf)  | [Video]()    | |
 
