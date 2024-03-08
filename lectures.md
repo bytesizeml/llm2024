@@ -40,4 +40,5 @@
 | Feb 22 | Stable Diffusion Architecture|  [Lecture 14](lectures/lecture_14.pdf)  | [Lecture 14 annotated](lectures/lecture_14_annotated.pdf)  | [Video](https://washington.zoom.us/rec/share/vANTJlgeJ5lWqrY98SspGz9auWoKE0Pj93oIp12VKAiMR0Gk9HipPZaJOzRXei_U.0LgJmGw7ye6IGfzm)   | | |
 | Feb 27 | Stable Diffusion Architecture and Demos|  [Lecture 15](lectures/lecture_15.pdf)  | [Lecture 15 annotated](lectures/lecture_15_annotated.pdf)  | [Video](https://washington.zoom.us/rec/share/4BMJTkqgNn3mqD_08x7nemLNAhg0h33gG4PN52glrueWh7IkMoAaokpL5I2o5wmD.wBdL-J5DiNphMpcG)    |[Notebook and ICE-5](lectures/Text2Image_LLM_2024.ipynb) |
 | Feb 29 | Adverserial Attacks on LLMs|  [Lecture 16](lectures/lecture_16.pdf)  | [Lecture 16 annotated](lectures/lecture_16_annotated.pdf)  | [Video](https://washington.zoom.us/rec/share/4IJpMgOzJd1LV32B93Vupajdv7AYCfQViGY3X0tFFx5vNE0jnFWTf_1SnxWSEPVQ.VfrF_gJ4yudaGvmo)    | |
+| Mar 8 | Evaluating LLMs|  [Lecture 17](lectures/lecture_17.pdf)  | [Lecture 17 annotated]()  | [Video]()    |[ChatBot Arena](https://chat.lmsys.org/) |
 
